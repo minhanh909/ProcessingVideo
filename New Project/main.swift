@@ -9,4 +9,5 @@ import Foundation
 
 print("what do you do?")
 print("what do you want?")
+print("amount 10")
 
